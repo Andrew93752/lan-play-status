@@ -439,4 +439,10 @@
     "platform": "switch",
     "type": "dotnet"
   }
+      "ip": "178.254.39.206",
+    "port": 11451,
+    "flag": "de",
+    "platform": "switch",
+    "type": "rust"
+  }
 ]
